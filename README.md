@@ -1,17 +1,40 @@
-# login_screen
 
-A new Flutter project.
 
-## Getting Started
+📱 Login & Stats App (Flutter)
 
-This project is a starting point for a Flutter application.
+Aplicativo desenvolvido em Flutter com foco em boas práticas, arquitetura limpa e experiência de usuário moderna.
 
-A few resources to get you started if this is your first Flutter project:
+✨ Funcionalidades:
+- 🔐 Login com validação completa
+- 📧 Validação de email
+- 🔑 Validação de senha (nível produto real)
+- 📊 Dashboard com estatísticas
+- 📈 Gráfico animado (barras crescendo)
+- 🌙 Tema dark moderno
+- 📱 Layout responsivo
+- ⚡ Gerenciamento de estado com MobX
+- 🧠 Arquitetura
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Tecnologias:
+- Flutter
+- MobX
+- Dart
+- Material Design
+
+🎯 Destaques técnicos
+- Uso de Observer e reaction para controle de estado
+- Navegação com argumentos (evitando duplicação de estado)
+- Regex com suporte a acentuação (\p{L})
+- UI responsiva para diferentes tamanhos de tela
+- Animações suaves com AnimationController
+
+🚀 Como rodar
+- flutter pub get
+- flutter run
+
+Prévia:
+
+
+https://github.com/user-attachments/assets/062f9193-8dd3-4d25-926e-2418a8de178a
+
